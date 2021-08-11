@@ -1,0 +1,9 @@
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\bin\Debug\netcoreapp2.1\ProvaConceito.Domain.deps.json
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\bin\Debug\netcoreapp2.1\ProvaConceito.Domain.dll
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\bin\Debug\netcoreapp2.1\ProvaConceito.Domain.pdb
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.AssemblyInfo.cs
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.dll
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.Domain\obj\Debug\netcoreapp2.1\ProvaConceito.Domain.pdb
