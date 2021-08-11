@@ -1,0 +1,9 @@
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\bin\Debug\netcoreapp2.1\ProvaConceito.DataAccess.deps.json
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\bin\Debug\netcoreapp2.1\ProvaConceito.DataAccess.dll
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\bin\Debug\netcoreapp2.1\ProvaConceito.DataAccess.pdb
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.AssemblyInfo.cs
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.dll
+C:\Users\rubem\source\repos\ProvaConceito\ProvaConceito.DataAccess\obj\Debug\netcoreapp2.1\ProvaConceito.DataAccess.pdb
